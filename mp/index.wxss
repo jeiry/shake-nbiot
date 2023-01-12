@@ -1,0 +1,11 @@
+/**index.wxss**/
+.container{
+  
+  margin: 10px;
+  padding: 10px;
+}
+.list{
+  margin: 5px;
+  padding: 5px;
+  border-top: #eeeeee 1px solid;
+}
